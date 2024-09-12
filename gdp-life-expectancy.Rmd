@@ -29,7 +29,6 @@ The Gapminder dataset contains life expectancy and GDP per capita information fo
 # make sure to choose a year for which there is data available
 analysis_year <- 2007
 ```
-
 In this report we analyze the relationship between GDP and life expectancy in `r analysis_year` overall and by year.
 
 ```{r filter-for-year}
